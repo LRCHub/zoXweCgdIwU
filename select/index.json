@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Part of me",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-28T14:49:27.006131Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Another Part of Me",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Another_Part_of_Me_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Another Part Of Me - Single Version",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Another_Part_Of_Me_-_Single_Version_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Part of Me",
+      "artist": "Nite Jewel",
+      "has_synced": false,
+      "path": "select/03_Part_of_Me_Nite_Jewel.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Part Of Me, Part Of You",
+      "artist": "Glenn Frey",
+      "has_synced": true,
+      "path": "select/04_Part_Of_Me,_Part_Of_You_Glenn_Frey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Not Part Of Me",
+      "artist": "Cloud Nothings",
+      "has_synced": true,
+      "path": "select/05_I'm_Not_Part_Of_Me_Cloud_Nothings.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Part of Me",
+      "artist": "PHASES",
+      "has_synced": true,
+      "path": "select/06_Part_of_Me_PHASES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Part Of Me",
+      "artist": "Broadway Cast of Dear Evan Hansen (August 2018)",
+      "has_synced": false,
+      "path": "select/07_Part_Of_Me_Broadway_Cast_of_Dear_Evan_Hansen_(August_2018).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Part of Me",
+      "artist": "Dear Evan Hansen August 2018 Broadway Cast",
+      "has_synced": false,
+      "path": "select/08_Part_of_Me_Dear_Evan_Hansen_August_2018_Broadway_Cast.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Part of Me",
+      "artist": "Getter feat. AudioOpera",
+      "has_synced": true,
+      "path": "select/09_Part_of_Me_Getter_feat._AudioOpera.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Part of Me (feat. AudioOpera)",
+      "artist": "Getter",
+      "has_synced": false,
+      "path": "select/10_Part_of_Me_(feat._AudioOpera)_Getter.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Part of Me",
+      "artist": "Hannah Diamond feat. Danny L Harle",
+      "has_synced": true,
+      "path": "select/11_Part_of_Me_Hannah_Diamond_feat._Danny_L_Harle.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Part of Me",
+      "artist": "Hannah Diamond",
+      "has_synced": true,
+      "path": "select/12_Part_of_Me_Hannah_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Part of Me (Hybrid Theory EP)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/13_Part_of_Me_(Hybrid_Theory_EP)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Part Of Me",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Part_Of_Me_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Part of Me",
+      "artist": "Hybrid Theory",
+      "has_synced": false,
+      "path": "select/15_Part_of_Me_Hybrid_Theory.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Part Of Me (Demo)",
+      "artist": "Linkin Park Hybrid Theory",
+      "has_synced": true,
+      "path": "select/16_Part_Of_Me_(Demo)_Linkin_Park_Hybrid_Theory.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Part Of Me",
+      "artist": "Tool",
+      "has_synced": false,
+      "path": "select/17_Part_Of_Me_Tool.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Part Of Me (Four Track Demo Recordings)",
+      "artist": "Tool",
+      "has_synced": true,
+      "path": "select/18_Part_Of_Me_(Four_Track_Demo_Recordings)_Tool.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Part of me",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Part_of_me_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
